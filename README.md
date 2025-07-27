@@ -130,7 +130,7 @@ DeviceNetworkEvents
 ### 4. Network Connection - TOR Network
 
 - **Timestamp:** `2025-07-24T00:55:45.2874879Z`
-- **Event:** A network connection to IP `188.99.193.108` on port `9001` by user "employee" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection to IP `188.99.193.108` on port `9001` by user "gdbrook" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `C:\users\gdbrook\desktop\tor browser\browser\torbrowser\tor\tor.exe`
@@ -140,7 +140,7 @@ DeviceNetworkEvents
 - **Timestamps:**
   - `2025-07-24T01:16:57.6515089Z` - Connected to `5.45.98.188` on port `443`.
   - `2025-07-24T00:56:05.4919873Z` - Local connection to `127.0.0.1` on port `9150`.
-- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "employee" through the TOR browser.
+- **Event:** Additional TOR network connections were established, indicating ongoing activity by user "gdbrook" through the TOR browser.
 - **Action:** Multiple successful connections detected.
 
 ### 6. File Creation - TOR Shopping List
